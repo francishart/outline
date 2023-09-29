@@ -16,7 +16,7 @@
     "noImplicitOverride": false,
     "noImplicitReturns": true,
     "noImplicitThis": false,
-    "sourceMap": true,
+    "sourceMap": false,
     "resolveJsonModule": true,
     "strictNullChecks": true,
     "noEmit": true,
